@@ -1,0 +1,751 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*header*/
+    .menu {
+        text-align: center;
+    }
+    .menu ul li {
+        margin-right: 0;
+    }
+    .h_tf {
+        margin: 10px 20px;
+    }
+    /*banner*/
+    .b_cont {
+        margin-top: 30px;
+    }
+    .b_cont h1 {
+        margin: 15px 0;
+        font-size: 30px;
+    }
+    .b_te {
+        margin: 0;
+        font-size: 16px;
+        margin-right: 45px;
+    }
+    .eca {
+        width: 300px;
+        height: 35px;
+    }
+    .eca_text {
+        top: 6px;
+        font-size: 16px;
+    }
+    .b_ank {
+        margin-top: 40px;
+    }
+    .mrt {
+        margin: 0 2% 0 0;
+    }
+
+    /*trust company*/
+    .tc_head p {
+        margin: 0;
+        padding: 40px 0 0;
+        text-align: center;
+    }
+    .mt{
+        margin-top: 20px;
+    }
+    .tc_list ul li {
+        margin-top: 35px;
+    }
+
+    /*app feature*/
+
+    .app_feature {
+        padding: 35px 0 80px 0;
+    }
+    .apf_text {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .apf_h1 {
+        margin-right: 60px;
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .apf_tex {
+        margin: 15px 0 40px 0!important;
+    }
+    .mtt {
+        padding-top: 25px;
+    }
+    .apf_sico {
+        margin-top: 10px;
+    }
+    .apf_write p {
+        margin-right: 15px;
+    }
+
+
+
+    /*jackpot*/
+    .jl_h1 {
+        margin-top: 25px;
+    }
+    .jl_h1 h1 {
+        font-size: 23px;
+        line-height: 35px;
+    }
+    .m_lin img {
+        min-height: 0;
+        margin-top: 40px;
+    }
+    .m_lin {
+        padding-left: 0;
+    }
+    .jr_p p {
+        margin-top: 25px;
+        font-size: 15px;
+        margin-right: 0;
+    }
+    .j_single {
+        text-align: center;
+        margin-top: 50px;
+    }
+    .j_single h2 {
+        padding-top: 0; 
+        margin-top: 20px;
+        font-size: 17px;
+    }
+    .j_single p {
+        font-size: 15px;
+        margin: 10px 0px 0 0;
+    }
+
+    /*latest_code*/
+    .lc_text {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .lc_text h1 {
+        font-size: 23px;
+        margin: 40px 55px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .lc_text p {
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+
+    /*choose*/
+
+    .choose {
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+    .c_h1 {
+        margin: 0 2%;
+    }
+    .u_head {
+        text-align: center;
+    }
+    .u_h1 {
+        margin: 20px 40px;
+    }
+    .u_p {
+        margin-right: 0;
+    }
+    .c_single {
+        text-align: center;
+    }
+    .us_p {
+        margin: 0 5%;
+    }
+    .ul_btn {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .ul_img {
+
+        margin-top: 50px;
+    }
+    /*Price*/
+    .price {
+        padding: 100px 0 100px;
+    }
+    .prt_btn {
+        width: 285px;
+        margin-left: 115px;
+        padding: 0px 0px;
+        margin-top: 35px;
+        margin-bottom: 20px;
+    }
+
+    .card1 {
+        margin-bottom: 50px;
+    }
+
+    /*satisfy*/
+
+    .satisfy {
+        padding: 60px 0 75px;
+        background-position: bottom;
+    }
+    .stf_cont {
+        text-align: center;
+    }
+    .stf_h1 {
+        margin-right: 0;
+    }
+    .stf_p {
+        margin-right: 0;
+    }
+    .stf_p2 {
+        margin-right: 0;
+    }
+
+    .cl_h2 {
+        margin-top: -85px;
+    }
+
+    /*download*/
+    .d_cont {
+        text-align: center;
+    }
+    .dl_h1 {
+        font-size: 40px;
+        margin-top: 55px;
+    }
+
+
+    /*footer*/
+
+    footer {
+        top: 267px;
+    }
+
+}
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*header*/
+    .menu {
+        text-align: center;
+    }
+    .menu ul li {
+        margin-right: 0;
+    }
+    .h_tf {
+        margin: 10px 20px;
+    }
+    /*banner*/
+    .b_cont {
+        margin-top: 30px;
+    }
+    .b_cont h1 {
+        margin: 15px 0;
+        font-size: 30px;
+    }
+    .b_te {
+        margin: 0;
+        font-size: 16px;
+        margin-right: 45px;
+    }
+    .eca {
+        width: 300px;
+        height: 35px;
+    }
+    .eca_text {
+        top: 6px;
+        font-size: 16px;
+    }
+    .b_ank {
+        margin-top: 40px;
+    }
+    .mrt {
+        margin: 0 2% 0 0;
+    }
+
+    /*trust company*/
+    .tc_head p {
+        margin: 0;
+        padding: 40px 0 0;
+        text-align: center;
+    }
+    .mt{
+        margin-top: 20px;
+    }
+    .tc_list ul li {
+        margin-top: 35px;
+    }
+
+    /*app feature*/
+
+    .app_feature {
+        padding: 35px 0 80px 0;
+    }
+    .apf_text {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .apf_h1 {
+        margin-right: 60px;
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .apf_tex {
+        margin: 15px 0 40px 0!important;
+    }
+    .mtt {
+        padding-top: 25px;
+    }
+    .apf_sico {
+        margin-top: 10px;
+    }
+    .apf_write p {
+        margin-right: 15px;
+    }
+
+
+
+    /*jackpot*/
+    .jl_h1 {
+        margin-top: 25px;
+    }
+    .jl_h1 h1 {
+        font-size: 23px;
+        line-height: 35px;
+    }
+    .m_lin img {
+        min-height: 0;
+        margin-top: 40px;
+    }
+    .m_lin {
+        padding-left: 0;
+    }
+    .jr_p p {
+        margin-top: 25px;
+        font-size: 15px;
+        margin-right: 0;
+    }
+    .j_single {
+        text-align: center;
+        margin-top: 50px;
+    }
+    .j_single h2 {
+        padding-top: 0; 
+        margin-top: 20px;
+        font-size: 17px;
+    }
+    .j_single p {
+        font-size: 15px;
+        margin: 10px 0px 0 0;
+    }
+
+    /*latest_code*/
+    .lc_text {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .lc_text h1 {
+        font-size: 23px;
+        margin: 40px 55px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .lc_text p {
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+
+    /*choose*/
+
+    .choose {
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+    .c_h1 {
+        margin: 0 2%;
+    }
+    .u_head {
+        text-align: center;
+    }
+    .u_h1 {
+        margin: 20px 40px;
+    }
+    .u_p {
+        margin-right: 0;
+    }
+    .c_single {
+        text-align: center;
+    }
+    .us_p {
+        margin: 0 5%;
+    }
+    .ul_btn {
+        text-align: center;
+        margin-top: 35px;
+    }
+    .ul_img {
+
+        margin-top: 50px;
+    }
+    /*Price*/
+    .price {
+        padding: 100px 0 100px;
+    }
+    .prt_btn {
+        width: 285px;
+        margin-left: 115px;
+        padding: 0px 0px;
+        margin-top: 35px;
+        margin-bottom: 20px;
+    }
+
+    .card1 {
+        margin-bottom: 50px;
+    }
+
+    /*satisfy*/
+
+    .satisfy {
+        padding: 60px 0 75px;
+        background-position: bottom;
+    }
+    .stf_cont {
+        text-align: center;
+    }
+    .stf_h1 {
+        margin-right: 0;
+    }
+    .stf_p {
+        margin-right: 0;
+    }
+    .stf_p2 {
+        margin-right: 0;
+    }
+
+    .cl_h2 {
+        margin-top: -85px;
+    }
+
+    /*download*/
+    .d_cont {
+        text-align: center;
+    }
+    .dl_h1 {
+        font-size: 40px;
+        margin-top: 55px;
+    }
+
+
+    /*footer*/
+
+    footer {
+        top: 267px;
+    }
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*header*/
+    .menu {
+        text-align: center;
+    }
+    .menu ul li {
+        margin-right: 0;
+    }
+    .h_tf {
+        margin-top: 0;
+        margin-right: 10px;
+    }
+    /*banner*/
+    .b_cont {
+        margin-top: 160px;
+    }
+    .b_cont h1 {
+        margin: 15px 0;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .b_te {
+        margin: 0;
+        font-size: 16px;
+        margin-right: 45px;
+    }
+    .b_ank {
+        margin-top: 50px;
+    }
+    .eca {
+        width: 300px;
+        height: 35px;
+    }
+    .eca_text {
+        top: 6px;
+        font-size: 16px;
+    }
+
+    /*trust company*/
+    .tc_head p {
+        margin: 40px 0 40px;
+    }
+    .mt{
+        margin-top: 20px;
+    }
+
+    /*app feature*/
+
+    .app_feature {
+        margin: 50px 0 120px 0;
+    }
+    .apf_text {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .apf_h1 {
+        margin-right: 60px;
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .apf_tex {
+        font-size: 16px;
+        margin: 15px 0 30px 0;
+        margin: 0;
+        line-height: 25px;
+    }
+    .mtt {
+        margin-top: 15px;
+    }
+    .apf_sico {
+        margin-top: 25px;
+    }
+    .apf_write p {
+        margin-right: 0;
+    }
+
+
+
+    /*jackpot*/
+    .jl_h1 {
+        margin-top: 25px;
+    }
+    .jl_h1 h1 {
+        font-size: 23px;
+        line-height: 35px;
+    }
+    .m_lin img {
+        min-height: 0;
+    }
+    .m_lin {
+        margin-left: 20px;
+    }
+    .jr_p p {
+        margin-top: 15px;
+        font-size: 15px;
+        margin-right: 20px;
+    }
+    .j_single h2 {
+        margin-top: 20px;
+        font-size: 17px;
+    }
+    .j_single p {
+        font-size: 15px;
+        margin: 10px 0px 0 0;
+    }
+
+    /*latest_code*/
+    .lc_text {
+        margin-top: 10px;
+    }
+    .lc_text h1 {
+        font-size: 23px;
+        margin-right: 40px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+    .lc_text p {
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+
+
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /*header*/
+    .h_tf {
+        margin: 12px 25px;
+    }
+    /*banner*/
+    .b_cont {
+        margin-top: 195px;
+    }
+    .eca {
+        width: 315px;
+    }
+    .eca_text {
+        top: 7px;
+        font-size: 15px !important;
+    }
+    .b_cont h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .b_te {
+        font-size: 15px;
+    }
+    /*trust company*/
+    .tc_head p {
+        margin: 50px 0 40px;
+        font-size: 15px
+    }
+
+    /*app feature*/
+    .apf_text {
+        margin-left: 0;
+    }
+    .apf_h1 {
+        margin: 0 20px 0 0;
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .apf_tex {
+        margin: 20px 0 45px 0;
+        line-height: 30px;
+        font-size: 15px;
+    }
+    .apf_sico img {
+        margin-top: 15px;
+    }
+    .apf_write p {
+        margin-right: 0;
+        font-size: 15px;
+    }
+    .apf_write h3 {
+        font-size: 17px;
+    }
+    /*jackpot*/
+    .jl_h1 h1 {
+        margin-top: 20px;
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .m_lin {
+        margin-left: 75px;
+    }
+    .m_lin img {
+        min-height: 100px;
+    }
+    .jr_p p {
+        margin-top: 20px;
+        margin-right: 15px;
+    }
+    .j_single h2 {
+        font-size: 17px;
+    }
+    .j_single p {
+        margin-right: 0;
+        font-size: 15px;
+    }
+
+    /*latest_code*/
+    .lc_text {
+        margin-top: 70px;
+    }
+    .lc_text h1 {
+        margin-bottom: 20px;
+        font-size: 25px;
+        line-height: 35px;
+
+    }
+
+    .lc_text p {
+        margin-bottom: 30px;
+        margin-right: 15px;
+        font-size: 15px;
+
+    }
+
+
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /*banner*/
+    .eca_text {
+        top: 6px;
+        font-size: 16px !important;
+    }
+    .b_cont h1 {
+        font-size: 50px;
+    }
+    .b_te {
+        font-size: 16px;
+    }
+    /*app_feature*/
+    .apf_h1 {
+        margin-right: 140px;
+        margin: 0;
+    }
+    .apf_tex {
+        margin: 25px 0 50px 0;
+        line-height: 30px;
+    }
+    .mtt {
+        margin-top: 7px;
+    }
+    .apf_write p {
+        margin-right: 0 !important;
+    }
+    .apf_sico img {
+        margin-top: 30px;
+    }
+    .apf_write p {
+        margin-right: 30px;
+    }
+    .apf_h1 {
+        font-size: 33px;
+        font-weight: 600;
+        line-height: 45px;
+    }
+
+    /*jackpot*/
+    
+    .jl_h1 h1 {
+        font-size: 32px;
+    }
+    .m_lin img {
+        min-height: 150px;
+    }
+    .jr_p p {
+        margin-top: 30px;
+        margin-right: 0;
+    }
+    .j_single p {
+        margin: 15px 0px 0 0;
+    }
+
+    /*latest_code*/
+    .lc_text h1 {
+        margin-right: 65px;
+    }
+    .lc_text p {
+        margin-right: 0;
+    }
+
+    /*choose */
+    .c_h1 {
+        margin: 0 15% 30px;
+    }
+    .c_p {
+        margin: 0 5%;
+    }
+
+
+    /*price section*/
+    .pr_p {
+        margin: 0 5%;
+    }
+
+ }
+
+ /*Extra Extra large devices (extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+    
+	
+ }
